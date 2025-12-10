@@ -1,0 +1,68 @@
+# Byte-compiled / optimized / compiled files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.DS_Store
+Thumbs.db
+
+# Operating System files
+.directory
+
+# Build artifacts
+build/
+dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+test-results.xml
+.nyc_output/
+coverage/
+
+# Dependencies
+node_modules/
+jspm_packages/
+
+# Environment variables
+.env
+.env*.local
+
+# Misc
+.DS_Store
+.env
+.env.development.local
+.env.production.local
+.env.test.local
+.eslintcache
+.next/
+.npm
+.npmrc
+.prettierrc
+.sentryclirc
+.terraform/
+.terraform.lock.hcl
+.terraformrc
+.tmp/
+.vagrant/
+.vercel/
+.yarn/
+.yarnrc
+.yarnrc.yml
+coverage/
+dist/
+logs/
+npm-debug.log
+package-lock.json
+pnpm-debug.log
+report.html
+tmp/
+yarn-error.log
